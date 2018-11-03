@@ -12,10 +12,10 @@ int main() {
 	}
 	else{
 		if(b<a && b<c){
-			cout << b;
+	    cout << b;
 	}
 	else{
-			cout << c;
+		cout << c;
 	}
 	}
     return 0;
